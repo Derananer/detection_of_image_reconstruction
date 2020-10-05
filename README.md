@@ -9,3 +9,6 @@ https://medium.com/@neurohiveru/%D1%80%D0%B5%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80
 
 https://github.com/ZQPei/patchmatch_inpainting
 
+
+Может поможет для настройки колаба: 
+https://colab.research.google.com/drive/1IiOLDP20QT3JFx5pigCibDadq9orNErk
